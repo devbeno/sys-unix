@@ -1,0 +1,85 @@
+# kernels
+linux
+linux-firmware
+
+# Core-utils
+dash
+base
+less
+diffutils
+file
+sudo
+man-db
+man-pages
+openssh
+python
+which
+
+# Sway Window Manager (Requires Setup)
+# https://wiki.archlinux.org/title/Sway
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+mako
+xorg-xwayland
+
+# Window Managers
+# https://wiki.archlinux.org/title/Wayland#Compositors
+gtk3
+gtk4
+qt5-wayland
+qt6-wayland
+otf-fira-mono
+otf-font-awesome
+
+# Print Server (Requires Additional Setup)
+# https://wiki.archlinux.org/title/CUPS
+cups
+cups-pdf
+cups-filters
+ghostscript
+gsfonts
+avahi
+nss-mdns
+samba
+gutenprint
+foomatic-db-gutenprint-ppds
+system-config-printer
+
+# Security (Requires setup if not grub)
+# https://wiki.archlinux.org/title/Microcode
+# https://wiki.archlinux.org/title/Polkit#Authentication_agents
+intel-ucode
+polkit
+lxsession
+
+# Sound (Requires setup)
+# https://wiki.archlinux.org/title/PipeWire
+pipewire
+pipewire-pulse
+pipewire-alsa
+pipewire-media-session
+
+# Terminal Workflow
+gvim
+
+# Virtualisation (Requires setup)
+# https://wiki.archlinux.org/title/libvirt
+libvirt
+iptables-nft
+dnsmasq
+openbsd-netcat
+virt-manager
+edk2-ovmf
+docker
+
+# Network (Requires setup)
+# https://wiki.archlinux.org/title/NetworkManager
+networkmanager
+networkmanager-openvpn
+wireguard-tools
+nm-connection-editor
+network-manager-applet
+
+# Software Engineering
+github-cli
+python-pip

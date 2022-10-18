@@ -1,0 +1,79 @@
+# Terminal Workflow
+alacritty
+zsh
+vim
+ranger
+
+# Productivity
+firefox
+pandoc
+groff
+
+# Sway Window Manager
+sway
+swayidle
+swaylock
+waybar
+xdg-desktop-portal-wlr
+wofi
+kanshi
+playerctl
+udiskie
+grim
+slurp
+wl-clipboard
+pavucontrol
+
+# Useful Apps
+eog
+evince
+cheese
+gimp
+gnome-system-monitor
+gnome-calculator
+nautilus
+tmux
+tree
+qrencode
+virt-viewer
+
+# Theming
+lxappearance
+gcolor3
+neofetch
+
+# Laptops
+tlp
+tlp-rdw
+
+# Software Engineering
+ansible
+git
+rsync
+restic
+rclone
+tldr
+enscript
+# podman
+make
+
+# Security
+firewalld
+nmap
+
+# General
+lsb-release
+util-linux
+cmatrix
+cowsay
+flatpak
+fzf
+mlocate
+w3m
+wget
+curl
+jq
+less
+sxiv
+rclone
+restic

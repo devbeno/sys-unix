@@ -1,0 +1,4 @@
+# Cloud tools
+awscli
+boto3
+ansible
